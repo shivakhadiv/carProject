@@ -1,0 +1,28 @@
+.factoryHed
+{
+    width: 45%;
+    height: 300px;
+    float: left;
+    margin: 10px;
+    padding: 10px;
+    border: 2px  chocolate solid;
+   
+}
+
+#irankhodro
+{
+    color: red;
+    text-align: center;
+    background-color: darkgrey;
+}
+#saipa
+{
+    color :blue;
+    text-align: center;
+    background-color: darkgrey;
+}
+
+.li
+{
+    text-align: left;;
+}

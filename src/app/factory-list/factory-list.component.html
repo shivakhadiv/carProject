@@ -1,0 +1,30 @@
+<div class="factoryHed">
+
+    <h1 id="irankhodro">{{title1}}</h1>
+<ul>
+    <li *ngFor="let item of product1">{{item}} 
+        <button>جزيیات</button>
+    <br>
+    <br>
+    </li>
+</ul>
+
+
+</div>
+
+<!-- <div class="factoryHed">
+
+    <h1 id="saipa">{{title2}}</h1>
+<ul>
+    <li *ngFor="let item of product2">{{item}}</li>
+</ul>
+</div> -->
+<div class="factoryHed" >
+    <div *ngFor="let item of product2">
+        <h2>{{item}}
+        
+        <button (click)="showdetail('')">جزيیات</button>
+    </h2>
+    </div>
+    
+</div>

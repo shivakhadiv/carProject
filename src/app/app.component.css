@@ -1,0 +1,11 @@
+.head 
+{
+font-size: large;
+font-family: 'Times New Roman', Times, serif;
+text-align: center;
+background-color: cadetblue;
+color: chartreuse;
+height: 50px;
+margin: auto;
+padding-top:25px;
+}
